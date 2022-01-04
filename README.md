@@ -3,7 +3,7 @@
 - 🌱 Estudando C# e .NET
 - 📫 Contato: beatriz.assumcao@unifesp.br
 - 😄 Pronomes: ela / dela
-- ⚡ Fun fact: meu sobrenome deveria ser "Assunção", mas como no registro do meu vô foi escrito errado (Assumção), não puderam alterar o meu 😂
+- ⚡ Fun fact: meu sobrenome deveria ser "Assunção", mas como no registro do meu avô foi escrito errado (Assumção), não puderam alterar o meu 😂
 
 <div align="center">
   <a href="https://github.com/biassumcao">
