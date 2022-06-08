@@ -1,6 +1,6 @@
 ## 🙋 Oie, sou a Beatriz Assumção! 
 
-- 🌱 Estudando C# e .NET
+- 🌱 Estudando Node.js e Nest.js
 - 😄 Pronomes: ela / dela
 - ⚡ Fun fact: meu sobrenome deveria ser "Assunção", mas como no registro do meu avô foi escrito errado (Assumção), não puderam alterar o meu 😂
 
