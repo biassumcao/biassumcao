@@ -1,8 +1,7 @@
 ## 🙋 Oie, sou a Beatriz Assumção! 
 
-- 🌱 Estudando Node.js e Nest.js
+- 🌱 Estudando Node.js e Express
 - 😄 Pronomes: ela / dela
-- ⚡ Fun fact: meu sobrenome deveria ser "Assunção", mas como no registro do meu avô foi escrito errado (Assumção), não puderam alterar o meu 😂
 
 <div align="center">
   <a href="https://github.com/biassumcao">
