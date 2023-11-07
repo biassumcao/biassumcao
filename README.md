@@ -1,7 +1,6 @@
 ## 🙋 Oie, sou a Beatriz Assumção! 
 
-- 🌱 Estudando Node.js e Express
-- 😄 Pronomes: ela / dela
+- 🌱 Estudando Node.js e Nest.js
 
 <div align="center">
   <a href="https://github.com/biassumcao">
